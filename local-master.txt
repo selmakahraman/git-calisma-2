@@ -1,1 +1,2 @@
 local master dosyası -origin/master
+2.satır -origin/master
